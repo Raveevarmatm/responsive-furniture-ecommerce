@@ -13,6 +13,9 @@ A modern and fully responsive furniture eCommerce website built using HTML, CSS,
 - CSS3: For styling and responsive layouts.
 - JavaScript: For interactivity and dynamic functionalities.
 
+#How to view
+- You can access my portfolio website by visiting [https://raveevarmatm.github.io/responsive-furniture-ecommerce/]. Feel free to explore the content and get in touch!
+
 #How to Run the Project
 - Clone this repository to your local machine:
 git clone https://github.com/Raveevarmatm/furniture-ecommerce.git  
